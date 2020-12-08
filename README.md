@@ -45,4 +45,4 @@ The project was carried out by:<br/>
 - Server queries
 
 
-Our Project on Gitlab Pages <https://mkorchak1992.gitlab.io/step-project-cards>
+Our Project on Gitlab Pages <https://vrindislam.github.io/cards/>
